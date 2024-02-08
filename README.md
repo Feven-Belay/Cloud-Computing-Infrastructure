@@ -26,5 +26,8 @@ Details on how to install and run the project on an Ubuntu system are included, 
 ## Contribution
 Contributions are welcome! If you have ideas for improvement or have found a bug, please open an issue or a pull request.
 
+## Google slide link**
+https://docs.google.com/presentation/d/1t32K7shxJoogMpvCi3m0t16YmyJ7TQRKSxwPvDpVTp8/edit?usp=sharing
+
 
 
